@@ -1,0 +1,354 @@
+.logo1{
+    height: 40px;
+    width: 200px;
+}
+.one{
+    color: orange;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.Header{
+    display: flex ;
+    justify-content: space-between;
+    flex-wrap: inherit;
+    align-self: center;
+    padding: 3%;
+    margin-left: 5px;
+    background-color: wheat;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+}
+.two{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    word-spacing: 60px;
+    display: flex;
+    gap: 5px;
+    white-space: none;
+}
+.img1{
+    width: 700px;
+}
+.three{
+    font-size: 70px;
+    line-height: 100%;
+    font-weight: 700;
+    text-align: center;
+    color: tomato;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.Four{
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
+.body{
+    display: flex ;
+   justify-content: space-between;
+   flex-wrap: inherit;
+   align-self: center;
+   padding: 3%;
+   margin-left: 5px;
+   box-shadow:  0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+    font-size: xx-large;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+     Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     text-align: center;
+}
+.cart{
+    height: 100px;
+width: 200px;
+font-weight: 900;
+color: whitesmoke;
+border-radius: 30px;
+    font-size: larger;
+   background-color:  blue;
+   align-content: center;
+}
+.new2{
+    font-weight: 800;
+    margin-left: 30px;
+    background-color: gainsboro;
+    text-align: center; 
+}
+.new3{
+    font-weight: 800;
+    margin-left: 30px;
+    background-color: gainsboro;
+    text-align: center; 
+}
+.ten{
+    height: 400px;
+    width: 300px;
+     margin: 20px 20px 20px 40px;
+    background-color:white;
+}
+.twin{
+    text-align: left;
+    padding: 10px;
+}
+.head{
+    color: deeppink;
+    padding-left: 300px;
+
+}
+.cart2{
+    height: 100px;
+    width: 200px;
+    font-weight: 900;
+    color: whitesmoke;
+    border-radius: 30px;
+        font-size: larger;
+       background-color:  blue;
+       align-content: center;
+    margin-left: 50px;
+    }
+    .cart3{
+        height: 100px;
+        width: 200px;
+        font-weight: 900;
+        color: whitesmoke;
+        border-radius: 30px;
+            font-size: larger;
+           background-color:  blue;
+           align-content: center;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        }
+
+.unique{
+    font-size: 40px;
+    padding: 30px;
+}
+
+
+.hi{
+    
+    display: flex;
+    flex-direction: row; 
+    background-color: gainsboro;
+
+    padding: 20px 20px 20px 20px;
+
+    
+}
+.eight{
+    box-shadow:  0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    padding: 5px 5px 5px 5px;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+    width: 500px;
+
+}
+.six{
+    box-shadow:   0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+}
+.seven{
+    box-shadow:   0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+}
+
+.cart22{
+    height: 100px;
+    width: 200px;
+    font-weight: 900;
+    color: whitesmoke;
+    border-radius: 30px;
+        font-size: larger;
+       background-color:  blue;
+       align-content: center;
+    margin-left: 50px;
+    }
+    .cart32{
+        height: 100px;
+        width: 200px;
+        font-weight: 900;
+        color: whitesmoke;
+        border-radius: 30px;
+            font-size: larger;
+           background-color:  blue;
+           align-content: center;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        }
+
+.unique2{
+    font-size: 40px;
+    padding: 30px;
+}
+
+
+.hi2{
+    
+    display: flex;
+    flex-direction: row; 
+    background-color: gainsboro;
+
+    padding: 20px 20px 20px 20px;
+
+    
+}
+.eight2{
+    box-shadow:  0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    padding: 5px 5px 5px 5px;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+    width: 500px;
+
+}
+.six2{
+    box-shadow:   0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+}
+.seven2{
+    box-shadow:   0 2px 6px 0 rgba(0,0,0,12),inset 0-1px 0 0 #dadce0;
+    margin: 20px;
+    border-radius: 40px;
+    border-style: double;
+}
+.ten2{
+    height: 400px;
+    width: 300px;
+     margin: 20px 20px 20px 40px;
+    background-color:whitesmoke;
+}
+.head2{
+    color: deeppink;
+    padding-left: 300px;
+}
+    .twin2{
+        text-align: left;
+        padding: 10px;
+    }
+    .box-inner {
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        background-color:wheat;
+        margin: 35px 0px;
+    padding: 15px;
+        border-radius: 15px;
+    }
+    
+    
+    .box-img img {
+        width: 80px;
+    }
+    
+    .shopping-image1 img {
+        width: 650px;
+        height: 500px;
+        object-fit:contain;}
+    
+    .price {
+        display: flex;
+        align-items: center;
+        gap: 150px;
+    }
+    .font{
+        color: blue;
+        font-weight: 900;
+        font-size: xx-large;
+    }
+    .shopping-image1{
+        width: 600px;
+        height: 900px;
+    }
+    .col-lg-6{
+        width: 50%;
+        float: left;
+          }  
+        
+    .img16{
+            width: 200px;
+            height: 200px;
+        }
+        .hello{
+            font-size: large;
+        }
+
+
+        .foot{
+            text-align: center !important;
+            background: white;
+            padding:  20px 20px 20px 20px;
+            background-color:gainsboro;
+        
+        }
+       .form{ width: 20%;
+        
+padding: 13px;
+        }
+        .sub{
+            background-color: blue;
+            color: white;
+            padding: 13px;
+        }
+        .sub:hover{
+           background-color:goldenrod;
+           color: black;
+        }
+    .head5{
+        padding: 20px;
+        text-transform: uppercase;
+        
+    }
+    .form{
+        width: 400px;
+    }
+    li{
+        list-style: none;
+    }
+    .row1{
+        display: flex;
+        text-align: center !important;
+        align-content: center;
+            line-height: 50px;
+            background-color: gainsboro;
+            border-style: double;
+            border-radius: 20px;
+            padding-left: 6%;
+            
+    }
+
+    .custom{
+        color: red;
+        word-spacing: 50px;
+    }
+    h3{
+        font-weight: 900;
+        font-size: xx-large;
+        padding-right: 50px;
+        padding-left: 70px;
+    }
+    li{
+        font-weight: 500;
+        font-size: large;
+    }
+    .container-5{
+font-weight: 800;
+font-size: 30px;
+margin-left: 500px; 
+
+    }
